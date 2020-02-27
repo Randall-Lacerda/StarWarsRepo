@@ -1,5 +1,5 @@
-# Stars Wars Repo
+# Star Wars Repo
 
-![download.png]
+![./download.png]
 
-Aprendendo a usar o GIT
+Aprendendo a usar o Git e Github.
